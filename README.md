@@ -9,7 +9,7 @@ This project is part of the `js-dom-async-module` and demonstrates a simple inte
 js-dom-async-module/
 │
 ├── README.md
-│
+|
 ├── tasks/
 │ └── todo-interactive/
 │ ├── index.html

@@ -1,0 +1,14 @@
+
+li {
+    color: gray;
+    cursor: pointer;
+}
+
+.newColor {
+    color: blue;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none !important;
+}
